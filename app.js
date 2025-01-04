@@ -10,7 +10,7 @@ import {
 } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDY6rUqD1a29FFhAF6-YKvDSR5QTamof7Y",
+  apiKey: "api keyyyyyyyyyyyyyy",
   authDomain: "st-project-in-firebase-b719d.firebaseapp.com",
   projectId: "st-project-in-firebase-b719d",
   storageBucket: "st-project-in-firebase-b719d.appspot.com", // Fixed the storageBucket URL
